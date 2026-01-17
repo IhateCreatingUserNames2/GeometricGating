@@ -1,3 +1,4 @@
+![geometric_gating_diagram](https://github.com/user-attachments/assets/cbb4f5f3-c516-4225-a2e1-6257a1aab22c)
 <svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
   <!-- Title -->
   <text x="600" y="30" font-size="24" font-weight="bold" text-anchor="middle" fill="#2c3e50">
