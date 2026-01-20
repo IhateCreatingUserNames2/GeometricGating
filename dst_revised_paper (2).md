@@ -1,7 +1,7 @@
 # Geometric Capacity Constraints in Semantic Embeddings: A Framework and Application to Redundancy Filtering
 
-**Authors:** [Author Name]  
-**Affiliation:** [Institution]  
+**Authors:** João Carlos de Oliveira Maia
+**Affiliation:** CsV 
 **Date:** January 17, 2026  
 **Keywords:** semantic embeddings, dimensionality reduction, redundancy filtering, working memory models, sphere packing
 
